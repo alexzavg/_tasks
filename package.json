@@ -1,0 +1,27 @@
+{
+  "name": "copilot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexzavg/_tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexzavg/_tasks/issues"
+  },
+  "homepage": "https://github.com/alexzavg/_tasks#readme",
+  "dependencies": {
+    "chatgpt": "^3.3.9",
+    "puppeteer": "^19.4.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
